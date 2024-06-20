@@ -20,14 +20,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chaitraavshetty16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chaitraavshetty16&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
-### 😂 
+### 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611iskqcu71laizmfso1wpsri4kr97bm6q4feg2bk1k&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
-![image](https://github.com/chaitraavshetty16/chaitraavshetty16/assets/115099705/c1c394c8-7c3d-42d5-82d5-ca32b73121b1)
+
 
 
 ---
