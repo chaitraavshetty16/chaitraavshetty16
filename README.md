@@ -18,15 +18,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=chaitraavshetty16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://camo.githubusercontent.com/8437db8eb914d5537ab480c9b65ddc757129e5665c7f5171c6afd28f6b5c017d/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f71756f74653d4d7925323051756f7465" alt="readme Quotes" data-canonical-src="https://quotes-github-readme.vercel.app/api?quote=My%20Quote" style="max-width: 100%;">
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chaitraavshetty16&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ### 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611iskqcu71laizmfso1wpsri4kr97bm6q4feg2bk1k&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+<img height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611iskqcu71laizmfso1wpsri4kr97bm6q4feg2bk1k&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 
 
