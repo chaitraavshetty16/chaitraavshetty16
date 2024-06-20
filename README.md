@@ -23,9 +23,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chaitraavshetty16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='[https://memer-new.vercel.app/](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611iskqcu71laizmfso1wpsri4kr97bm6q4feg2bk1k&ep=v1_gifs_search&rid=giphy.gif&ct=g)![image](https://github.com/chaitraavshetty16/chaitraavshetty16/assets/115099705/bc13ec88-e269-4b55-b2ab-21b1ad0a7925)
-' style="height: 400px;"/>
+### 😂 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611iskqcu71laizmfso1wpsri4kr97bm6q4feg2bk1k&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+![image](https://github.com/chaitraavshetty16/chaitraavshetty16/assets/115099705/c1c394c8-7c3d-42d5-82d5-ca32b73121b1)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chaitraavshetty16&icon=0&color=0)](https://visitcount.itsvg.in)
